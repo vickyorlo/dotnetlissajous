@@ -19,7 +19,7 @@ namespace lissajou
             InitializeComponent();
             XAngleSpeed = 5;
             YAngleSpeed = 10;
-            AngleDifference = Math.PI/4;
+            AngleDifference = 0;
             DrawCurve();
         }
 
