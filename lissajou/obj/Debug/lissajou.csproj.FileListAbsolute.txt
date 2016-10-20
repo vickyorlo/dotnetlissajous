@@ -1,0 +1,9 @@
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\bin\Debug\lissajou.exe.config
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\bin\Debug\lissajou.exe
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\bin\Debug\lissajou.pdb
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\obj\Debug\lissajou.csprojResolveAssemblyReference.cache
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\obj\Debug\lissajou.Form1.resources
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\obj\Debug\lissajou.Properties.Resources.resources
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\obj\Debug\lissajou.csproj.GenerateResource.Cache
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\obj\Debug\lissajou.exe
+c:\users\vic\documents\visual studio 2015\Projects\lissajou\lissajou\obj\Debug\lissajou.pdb
